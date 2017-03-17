@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "5P8MPL8YU8.com.appliedlogic.maestro.maestro",
-                "paths": [ "/Home/*"]
+                "paths": [ "/Home/*","*"]
             }
         ]
     }
